@@ -69,7 +69,8 @@ class IntlToolbox {
     copyFromTemplates();
 
     print("Generate arb files");
-    ProcessResult generateArbResult = Process.runSync("flutter", [
+    //ProcessResult generateArbResult =
+    Process.runSync("flutter", [
       'pub',
       'pub',
       'run',
@@ -97,8 +98,8 @@ class IntlToolbox {
 
     generateDartArgs.addAll(arbFiles);
 
-    ProcessResult generateDartResult =
-        Process.runSync('flutter', generateDartArgs);
+    //ProcessResult generateDartResult =
+    Process.runSync('flutter', generateDartArgs);
 
     print("Merging translations");
     Map<String, dynamic> intlMessages = jsonDecode(File(p.join(

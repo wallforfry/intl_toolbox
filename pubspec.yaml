@@ -1,6 +1,6 @@
 name: intl_toolbox
-description: A useful toolbox for intl_translation package
-version: 0.1.0
+description: A useful toolbox for intl_translation package. You can easily generate and add locale to your project.
+version: 0.1.1
 homepage: https://github.com/wallforfry/intl_toolbox
 
 environment:
