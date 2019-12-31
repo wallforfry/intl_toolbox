@@ -1,7 +1,6 @@
 name: intl_toolbox
 description: A useful toolbox for intl_translation package
 version: 0.1.0
-author: Wallerand Delevacq
 homepage: https://github.com/wallforfry/intl_toolbox
 
 environment:
@@ -11,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   intl_translation: ^0.17.7
+  path: ^1.6.4
 
 dev_dependencies:
   flutter_test:
