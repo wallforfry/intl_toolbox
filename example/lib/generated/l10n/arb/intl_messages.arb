@@ -1,0 +1,19 @@
+{
+  "@@last_modified": "2019-12-30T16:23:58.861734",
+  "title": "Intl Toolbox Demo",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "text": "You have pushed the button this many times:",
+  "@text": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tooltip": "Increment",
+  "@tooltip": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

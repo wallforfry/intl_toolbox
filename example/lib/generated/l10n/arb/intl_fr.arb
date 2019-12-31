@@ -1,0 +1,19 @@
+{
+  "@@last_modified": "2019-12-30T16:23:58.861734",
+  "title": "Titre francais",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "text": "Vous avez appuyé sur ce bouton plusieurs fois:",
+  "@text": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tooltip": "Incrémenter",
+  "@tooltip": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
